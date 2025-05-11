@@ -1,0 +1,2 @@
+# Socratic-AI
+Internship project
