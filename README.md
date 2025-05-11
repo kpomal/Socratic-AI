@@ -1,2 +1,2 @@
 # Socratic-AI
-Internship project
+It is a interview Coachfocused on creating Mock interview questions
