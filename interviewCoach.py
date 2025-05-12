@@ -3,7 +3,7 @@ import google.generativeai as genai
 import datetime
 
 # Gemini API Key Configuration
-API_KEY = "AIzaSyAbJ3tch_ZdD9JKAp0IAnDpGgLl2SZir64"
+API_KEY = "Your API Key here"
 genai.configure(api_key=API_KEY)
 
 # Function to generate response using Gemini
